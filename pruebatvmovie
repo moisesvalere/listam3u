@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,ESPN
+http://138.59.177.34:8000/play/a058/index.m3u8
+#EXTINF:-1,ESPN +
+http://138.59.177.34:8000/play/a02t/index.m3u8
+#EXTINF:-1,ESPN 2
+http://138.59.177.34:8000/play/a059/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://138.59.177.34:8000/play/a072/index.m3u8
+#EXTINF:-1,ESPN 3
+http://138.59.177.34:8000/play/a046/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://138.59.177.34:8000/play/a071/index.m3u8
+#EXTINF:-1,ESPN 4
+http://138.59.177.34:8000/play/a06j/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://138.59.177.34:8000/play/a06v/index.m3u8
+#EXTINF:-1,ESPN HD
+http://138.59.177.34:8000/play/a070/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_4201836.png",Descuida yo te cuido Netflix 2021
+https://archive.org/download/l.C4r3.4.I0l/l.C4r3.4.I0l.mp4
+#EXTINF:-1  tvg-logo="null",10 Cosas que Odio de Ti
+https://archive.org/download/10_20210221/01.mp4
+#EXTINF:-1  tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_4252762.png",PelÃ© Netflix 2021
+https://archive.org/download/p-313/P313.mp4
+#EXTINF:-1  tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5441224.png",Flora y Ulises 2021
+https://archive.org/download/01_20210226_20210226_1652/01.mp4
