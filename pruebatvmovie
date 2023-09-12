@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:0, tvg-logo="data:image/png;base64,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" tvg-name="Espn"  group-title="Deportes",Espn
+#EXTINF:0, tvg-logo="https://www.vnet.com.ve/wp-content/uploads/2021/03/1.png" tvg-name="Espn"  group-title="Deportes",Espn
 http://138.59.177.34:8000/play/a058/index.m3u8
 
-#EXTINF:0, tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.419149045_Espn2.png.7bc309b12622e0289e3a009e551e9798.png" tvg-name="Espn 2"  group-title="Deportes",Espn 2
+#EXTINF:0, tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" tvg-name="Espn 2"  group-title="Deportes",Espn 2
 http://138.59.177.34:8000/play/a059/index.m3u8
 
 
@@ -12,6 +12,6 @@ http://138.59.177.34:8000/play/a059/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_4201836.png" tvg-name="Descuida yo te cuido"  group-title="Peliculas",Descuida yo te cuido Netflix 2021
 https://archive.org/download/l.C4r3.4.I0l/l.C4r3.4.I0l.mp4
 
-#EXTINF:-1  tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_4252762.png" tvg-name="Pele"  group-title="Peliculas",PelE Netflix 2021
+#EXTINF:-1  tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_4252762.png" tvg-name="Pele"  group-title="Peliculas",Pele Netflix 2021
 https://archive.org/download/p-313/P313.mp4
 
