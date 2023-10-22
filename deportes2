@@ -1,0 +1,511 @@
+#EXTM3U
+#EXTINF:-1 group-title="ESPAÑA",ESP-7: LA 1 FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126301
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76 /La_1_HD_TVE.png",ESP-1: TVE LA 1 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126212
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/ La_1_HD_TVE.png",ESP-1: LA 1 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126264
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76 /La_1_HD_TVE.png",ESP-1: LA 1 HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126265
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83 /Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png",ESP-1: TVE
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126259
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ La_2_HD.png",ESP-1: LA 2
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126263
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6 /63/La_2_HD.png/220px-La_2_HD.png",ESP-1: TVE LA 2 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126213
+#EXTINF:-1 group-title="ESPAÑA",ESP-7: ANTENA 3
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126304
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ Antena3hd.png",ESP-1: ANTENA 3 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126214
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ Antena3hd.png",ESP-1: ANTENA 3 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126262
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.actays.org/wp-content/uploads/2020/04 /cuatro_logo_500_-1_343d.png",ESP-1: CUATRO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126261
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/cuatro.png",ESP-1: CUATRO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126215
+#EXTINF:-1 group-title="ESPAÑA",ESP-7: TELECINCO
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126310
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV .png",ESP-1: TELECINCO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126260
+#EXTINF:-1 group-title="ESPAÑA",ESP-7: LA SEXTA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126313
+#EXTINF:-1 group-title="ESPAÑA",ESP-7: LA SEXTA FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126315
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/ LaSexta_HD_Logo_2016.png",ESP-1: LA SEXTA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126216
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01 /Telemadrid_Logo_new.png",ESP-1: TELEMADRID HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126231
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal -sur-logo-png-transparent.png",ESP-1: CANAL SUR
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126177
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/ 2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png",ESP-1: CALLE 13 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126252
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9 /13_TV.svg/1200px-13_TV.svg.png",ESP-1: TRECE TV
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126165
+#EXTINF:-1 ,#0 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126168
+#EXTINF:-1  tvg-logo="https://assets.stickpng.com/thumbs/5a5a5eb814d8c4188e0b0834.png",ESP-1: BLAZEᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126244
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: VIAJAR HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126436
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: VIAJAR FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126437
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar .png",ESP-1: VIAJAR HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126234
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/ Canalviajar.png",ESP-1: VIAJAR HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126267
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015 .png",ESP-1: HISTORIA ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126274
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: HISTORIA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126418
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: NATIONAL GEOGRAPHIC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126424
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: NATIONAL GEOGRAPHIC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126428
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: NATIONAL GEOGRAFIC WILD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126427
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: NATIONAL GEOGRAFIC WILD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126430
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d /d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",ESP-1: GEO NACIONAL WILD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126223
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/ 3e/Nat_Geo_Wild_HD_logo.png",ESP-1: GEO NACIONAL WILD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126163
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: CANAL DE DESCUBRIMIENTO
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126420
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://img.favpng.com/3/0/4/discovery- canal-television-logo-canal-television-show-png-favpng-DJEGtsbP1wJr4hS5MBRQ3Z7jf.jpg",ESP-8: DISCOVERY CHANNEL ESPAÑA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/153596
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://logos-download.com/wp-content/uploads/2016/ 06/Discovery_Channel_logo.png",ESP-1: DISCOVERY CHANNEL HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126179
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: ODISEA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126423
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA .png",ESP-1: ODISEA HVEC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126226
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA .png",ESP-1: ODISEA FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126277
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://vercanalestv1.com/logos/odisea.png",ESP-1: ODISEA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126175
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: CANAL COCINA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126422
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://tvepg.eu/img/spain/logo/canal_cocina.png",ESP-1: COCINA TV ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126258
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.pngitem.com/pimgs/m/80-800250_canal-cocina -hd-png-download.png",ESP-1: CANAL COCINA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126208
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: DMAX
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126432
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax. png",ESP-1: DMAX
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126180
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: BE MAD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126431
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/ 70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png",ESP-1: BE MAD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126243
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://freepngimg.com/thumb/energy/30958-4-energy-hd .png",ESP-1: ENERGÍA ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126257
+#EXTINF:-1 group-title="ESPAÑA",ESP-8: BLAZE
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126434
+#EXTINF:-1 ,#
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126317
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2 /20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png",ESP-1: MOVISTAR ACCION HD -
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126217
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/ 20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png",ESP-1: MOVISTAR ACCION HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126245
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20 /Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png",ESP-1: ACCION HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126272
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR ACCION HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126322
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR ACCION
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126323
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR ACCION FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126324
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/ 1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png",ESP-1: MoviStar ESTRENOS HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126220
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos .png",ESP-1: MOVISTAR ESTRENOS
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126275
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR ESTRENOS HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126319
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR ESTRENOS
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126320
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR ESTRENOS FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126321
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/ 05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png",ESP-1: MOVISTAR COMEDIA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126183
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR COMEDIA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126325
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR COMEDIA FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126326
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://2.bp.blogspot.com/-_rhWaodsTIk/U2Fd8GLB4TI/AAAAAAAAGc8/ mjWpxsTFEYI/s1600/comedy-central-logo.png",ESP-1: COMEDIA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126248
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/ 6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png",ESP-1: MOVISTAR DRAMA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126246
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.kindpng.com/picc/m/487-4873926_movistar -drama-hd-png-download.png",ESP-1: MOVISTAR DRAMA HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126279
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR DRAMA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126328
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR DRAMA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126329
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR DRAMA FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126330
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR CINEDOC&ROLL
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126332
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR CINEDOC&ROLL HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126344
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: MOVISTAR SUSPENSE
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126318
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: SOMOS
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126347
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD .png",ESP-1: HOLLYWOOD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126235
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD .png",ESP-1: HOLLYWOOD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126280
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: HOLLYWOOD HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126334
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: HOLLYWOOD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126335
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ b7/Movistar_Cine_Espa%C3%B1ol.svg/1529px-Movistar_Cine_Espa%C3%B1ol.svg.png",ESP-1: BOM cine
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126219
+#EXTINF:-1 group-title="ESPAÑA",ESP-1: BOM cine
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/143844
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e /FOX_HD.svg/1280px-FOX_HD.svg.png",ESP-1: FOX HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126198
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/ FOX_life_HD.png",ESP-1: FOX LIFE HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126197
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012 .png",ESP-1: FOX ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126254
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png",ESP-1: FOX LIFE HD.
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126255
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf /FOX_life_HD.png",ESP-1: FOX LIFE HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126281
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/ FOXHD_Logo.png",ESP-1: FOX HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126282
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TCM_HD .png",ESP-1: TCM HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126230
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ TCM_HD.png",ESP-1: TCM HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126161
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: TCM
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126337
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: TCM HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126338
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: TCM FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126339
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo. svg.png",ESP-1: COSMO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126253
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo. svg.png",ESP-1: COSMO HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126278
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61 /AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png",ESP-1: AXN HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126240
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/ AXN_White_HD.png",ESP-1: AXN BLANCO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126241
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/ 68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png",ESP-1: AXN WHITE ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126250
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: SUNDANCE
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126340
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: SUNDANCE FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126341
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD .png",ESP-1: TNT HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126232
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013 .png",ESP-1: AMC HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126238
+#EXTINF:-1 group-title="ESPAÑA",ESP-3: CANAL PARAMOUNT
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126348
+#EXTINF:-1 group-title="ESPAÑA",ESP-1: PARAMOUNT ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/144035
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://distritotv.es/wp-content/uploads/2021/04/cropped -PROPUESTAS-LOGO-DISTRITO-TV-2-1.png",ESP-3: DISTRITO TV
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/150270
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A %26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png",ARG: A&E HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135653
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am% C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",ARG: AMÉRICA TV UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/137746
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_ %28Chile%29_logo.svg/1005px-Canal_13_%28Chile%29_logo.svg.png",ARG: CANAL 13
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3553
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/37RJCC44KFEDVLQU2RDZ35OADE.jpg",ARG: CANAL 8 Mar del Plata (FHD)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/157532
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015. png",ARG: CANAL 9 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3539
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz. svg/1024px-Logo_Glitz.svg.png",ARG: GLITZ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4956
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR- Logo.svg/1200px-TeleSUR-Logo.svg.png",ARG: TELESUR
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3557
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/ Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png",ARG: TV PUBLICA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3534
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png",BOL: ATB BOLIVIA LP :)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131656
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo -cabecera-1.png",BOL: CADENA A
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131653
+#EXTINF:-1 group-title="LATINOS",BOL: TV Latina Canal 42 >)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131688
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi %C3%B3n_%282018-%29.png",CHL: 14 | CHILEVISIÓN HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135058
+#EXTINF:-1 group-title="LATINOS",CHL: Alternativa TV (SDT) *
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151677
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_ %28Isotipo_2018%29.svg/305px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png",CHL: CANAL 13
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3311
+#EXTINF:-1 group-title="LATINOS",CHL: Canal 2 (San Antonio) (HD) *
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151688
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://cdn.elobservatodo.cl/sites/elobservatodo.cl/files/imagecache/380x285/ imagen_noticia/canales.png",CHL: CHILEVISION
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/130050
+#EXTINF:-1 group-title="LATINOS",CHL: DECIMA TV (HD) *
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151781
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile. png",CHL: TV CHILE HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151673
+#EXTINF:-1 group-title="LATINOS",CHL: TV SALUD (UHD) *
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151769
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://conexioncapital.co/wp-content/uploads/2020/03/logo-canal -2020e.png",COL: CAPITAL DEL CANAL
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135036
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/ Canal-Mundo-Colombia-en-vivo-Online.png",COL: CANAL MUNDO MAS
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135040
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_ %28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",COL: CANAL UNO
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3570
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://pbs.twimg.com/profile_images/654931834/logo01_400x400.jpg",COL: CANAL VIP HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/160898
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012- 2015%29.png/1200px-Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png",COL: CARACOL (HD)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/157248
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://files.rcnradio.com/public/migration/logo-telecafe-2014.png",COL: TELECAFE HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3580
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://telemedellin.tv/wp-content/uploads/2018/07/ logo_telemedellin.png",COL: TELEMEDELLIN
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3590
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://www.antenaseis.com/wp-content/uploads/2018/06/ cropped-logo-antena-seis.png",CRI: Antena 6 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/137918
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400. jpg",CRI: CANAL 38 TV HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/153426
+#EXTINF:-1  tvg-logo="http://costaricatelevision.com/sites/default/files/2020-07/colosal-tv-costa-rica.png",CRI: COLOSAL TV HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/153423
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://humor24-7.com/wp-content/uploads/2020/12/LOGO-150.png",CRI: HUMOR TV CR 24/7
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/125924
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png",CRI: Multimedios Canal 6
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/125919
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Multimedios_Canal_Ocho_Logo.svg.png",CRI: Multimedios Canal 8 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135046
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png",CRI: REPRETEL 6
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/125907
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png",CRI: TELESUR CR HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135047
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://canal25rd.com/images/canal25_logo_2017_small.png",DMA: Canal 25 Santiago
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131874
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://www.altice.com.do/sites/default/files/cnt/grilla_canales/img/logos/RomanaTV.png",DMA: Romana TV
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131891
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/1200px-Canal_Uno_%28Ecuador%29_logo.png",ECU: CANAL UNO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3592
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Gama_tv_1995.png",ECU: GAMAVISION
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/145740
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",ECU: TC TELEVISION HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/2571
+#EXTINF:-1 group-title="LATINOS",HND: 29 TELECEIBA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131635
+#EXTINF:-1 group-title="LATINOS",HND: CANAL 5 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131627
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png",HND: HON_CANAL 5
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/125936
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/01_mega_logo.svg/1280px-01_mega_logo.svg.png",HND: MEGATV
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131633
+#EXTINF:-1 group-title="LATINOS",HND: TELEMAR HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131643
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://www.pngitem.com/pimgs/m/359-3591396_thumb-image-adn-40-logo-png-transparent-png.png",MX || ADN40 UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3699
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png",MX || Az Mundo UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3708
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2016/11/09/ALFOMBRA-E13-EU101116-2_Drupal%20Main%20Image.var_1478751216.jpg",MX || AZTECA CLICK UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/145506
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg",MX || AZTECA MUNDO UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/145512
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png",MX || CANAL 11 MX UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3723
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png",MX || CANAL 26 UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129035
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://www.pngitem.com/pimgs/m/146-1469268_estrella-tv-canal-8-hd-png-download.png",MX || ESTRELLATV UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/154741
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png",MX || FORO TV MX UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3748
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Las_estrellas_2017.jpg",MX || Las Estrellas HD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129048
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png",MX || MULTIMEDIOS PLUS MX UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129042
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://selectra.mx/sites/default/files/images/logos/teleformula-350x183.png",MX || TELEFORMULA MX UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3747
+#EXTINF:-1 group-title="LATINOS",MX || Televisa Monterey (HD)®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/160989
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png",PER: ATV HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3320
+#EXTINF:-1 group-title="LATINOS",PER: Exitosa TV HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151490
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png",PER: LATINA HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3324
+#EXTINF:-1 group-title="LATINOS",PER: Mega TV (Arequipa) SD *
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151526
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://images.squarespace-cdn.com/content/v1/5af59130c258b4b0159b1ab5/1528723845215-MBIUGH3W0TZMPXPJYEGH/ke17ZwdGBToddI8pDm48kLYO53DNTWiogOKDMd2pXzNZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dVqjJOA2bbs_Tozk7Nfgn76XL43JZOkPCEshooDSeRLTlrDit8BQyuAgSCshm0xaQ/Willax-Logo.png",PER: Willax Tv
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/134152
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://pbs.twimg.com/profile_images/554842972244566016/g7cz3Q8h_400x400.png",PRI: CANAL 11 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/148440
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn-v2/images/radio-stations/puerto-rico/univision-puerto-rico.png",PRI: CANAL 34 FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/161811
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://mms.businesswire.com/media/20190319005772/en/711406/23/ETV_Canal8_Miami_1_300dpi%5B1%5D.jpg",PRI: ESTRELLA TV Miami HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/145744
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2016/11/megatv-thumbs-350x350.jpg",PRI: Mega Tv
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126535
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://media.tvalacarta.info/canales/256x256/telemundopr.png",PRI: Telemundo HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126532
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://pbs.twimg.com/profile_images/1149708692088135681/VQyj0BOx_400x400.png",PRI: Univision
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126536
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/wapa.png",PRI: Wapa AMERICA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126531
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://www.television.com.py/wp-content/uploads/2017/04/C9N-logo1.png",PRY: C9N HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131703
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/200px-Logotrececanal.png",PRY: CANAL 13
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131829
+#EXTINF:-1 group-title="LATINOS",PRY: LA TELE HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131719
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png",PRY: PARAVISION
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131718
+#EXTINF:-1 group-title="LATINOS",PRY: UNICANAL HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/131723
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png",SLV: CANAL 4
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126540
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TeleUno_1997.png",SLV: TELE UNO TV HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151807
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png",URY: CANAL 10 URUGUAY
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3818
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://television-live.com/uploads/posts/2019-06/1560887846_canal-once-punta-del-este.jpg",URY: CANAL 11 (Punta del Este)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3819
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://www.logoteca.uy/uploads/imagenes/file_6c982c9657.png",URY: CANAL 12 URUGUAY
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3817
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Corazon_Llanero.png",VEN: Corazón Llanero TV (HD)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/158132
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://seeklogo.com/images/E/el-venezolano-tv-logo-A58A1B44E5-seeklogo.com.png",VEN: EL VENEZOLANO TV FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162563
+#EXTINF:-1 group-title="LATINOS",VEN: VENEVISION PLUS
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151671
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png",32 |  GLITZ TV UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/156053
+#EXTINF:-1 group-title="LATINOS",▂ ▄ ▅ ▆☆URUGUAY ☆▆ ▅ ▄ ▂
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3816
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/101/Logotipo_M%20LaLiga1_Negativo_RGB.png",ESP-4: MOVISTAR LALIGA FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4303
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://assets.laliga.com/assets/logos/laliga-h/laliga-h-1200x1200.png",01 | DAZN LALIGA (ESP) 4K
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/140948
+#EXTINF:-1 group-title="DEPORTE",29 | DAZN LA LIGA (ESP) HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/161108
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png",ESP-4: LIGA TV BAR
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4297
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png",ESP-4: LIGA TV BAR FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4299
+#EXTINF:-1 ,#2 Live Events
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/140949
+#EXTINF:-1 ,#3
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/140950
+#EXTINF:-1 ,#4
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/140951
+#EXTINF:-1 ,#7
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/140954
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png",ESP-4: MOVISTAR  LALIGA 2 (Solo Eventos)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4309
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png",ESP-4: MOVISTAR LA LIGA 2 FHD (Solo Eventos)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4310
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png",ESP-4: LIGA TV BAR 3 (Solo Eventos)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4301
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png",ESP-4: MOVISTAR  LA LIGA 3 (Solo Eventos)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4311
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png",ESP-4: LIGA TV BAR 4 (Solo Eventos)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4302
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png",ESP-4: MOVISTAR LA LIGA 6 (Solo Eventos)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4314
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png",ESP-4: MOVISTAR LA LIGA 8 (Solo Eventos)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4319
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png",ESP-4: MOVISTAR LA LIGA 10 (Solo Eventos)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4316
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",ESP-4: MOVISTAR  DEPORTE
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4335
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",ESP-4: MOVISTAR DEPORTE FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4337
+#EXTINF:-1 group-title="DEPORTE",ESP: DAZN 1 FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126455
+#EXTINF:-1 group-title="DEPORTE",17 | DAZN 1
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/140965
+#EXTINF:-1 group-title="DEPORTE",18 | DAZN 2
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/144815
+#EXTINF:-1 group-title="DEPORTE",ESP-5: DAZN 2 FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/141361
+#EXTINF:-1 group-title="DEPORTE",ESP-5: DAZN 3 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/141363
+#EXTINF:-1 group-title="DEPORTE",ESP-5: DAZN 3 FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/141364
+#EXTINF:-1 group-title="DEPORTE",19 | DAZN 3
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/144816
+#EXTINF:-1 group-title="DEPORTE",ESP-5: DAZN 4 FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/141366
+#EXTINF:-1 group-title="DEPORTE",20 |   DAZN 4
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/144817
+#EXTINF:-1 ,#1
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151986
+#EXTINF:-1 ,#2
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151987
+#EXTINF:-1 ,#3
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151988
+#EXTINF:-1 ,#GP DAZN
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151989
+#EXTINF:-1 ,#5
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151991
+#EXTINF:-1 ,#6
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/160166
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png",ESP-4: DAZN Formula 1 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/4354
+#EXTINF:-1 group-title="DEPORTE",ESP-5: DAZN - F1 GP FULL HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126453
+#EXTINF:-1 group-title="DEPORTE",ESP-5: MOVISTAR F1 FULLHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126482
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png",ESP-5: DAZN - F1 GP HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/141362
+#EXTINF:-1 group-title="DEPORTE",ESP-1: DAZN Formula 1 GP ᴴᴰ
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/151641
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png",ESP-1: MOVISTAR FORMULA 1 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126276
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png",Sports | FORMULA 1 FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/145436
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo.png",08 |  MOTO GP CHANNEL HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/160937
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo.png",07 |  SKY SPORTS GP
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/160936
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.pngitem.com/pimgs/m/244-2444368_fox-racing-logo-png-fox-sports-racing-logo.png",12 | FOX SPORTS RACING USA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162829
+#EXTINF:-1 ,#2
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/152581
+#EXTINF:-1 ,#3
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/152582
+#EXTINF:-1 ,#4
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/153547
+#EXTINF:-1 ,#5
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/155189
+#EXTINF:-1 ,#6
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/156076
+#EXTINF:-1 ,#7
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/157529
+#EXTINF:-1 ,#8
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/157530
+#EXTINF:-1 ,#9
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/157957
+#EXTINF:-1 ,#10
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/157958
+#EXTINF:-1 ,#Eventos
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162115
+#EXTINF:-1 ,#Eventos
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162116
+#EXTINF:-1 ,#Eventos
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162117
+#EXTINF:-1 ,#SD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162278
+#EXTINF:-1 ,#HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162279
+#EXTINF:-1 ,#UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/162356
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/UFC_Network.png/800px-UFC_Network.png",Sports | UFC NETWORK HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/145480
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png",Sports | UFC Fight Pass
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/145481
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png",ESP-1: MEZZO LIVE HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126195
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png",ESP-1: MEZZO LIVE HD HEVC
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126164
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png",FRA: TF1_HD SERIES FR
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129050
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png",FRA: TF1 SERIES FILMS HD FR
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129053
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png",FRA: M6 HD FR
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/129054
+#EXTINF:-1 group-title="FRANCIA",FRA: TF1 (FHD)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/160835
