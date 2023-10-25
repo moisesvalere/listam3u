@@ -267,8 +267,6 @@ http://138.59.177.34:8000/play/a03t/index.m3u8
 http://138.59.177.34:8000/play/a06k/index.m3u8
 #EXTINF:-1 ,MTV 00s
 http://138.59.177.34:8000/play/a04b/index.m3u8
-#EXTINF:-1 ,MTV 00s HD
-http://138.59.177.34:8000/play/a05r/index.m3u8
 #EXTINF:-1 ,MTV de los 80
 http://138.59.177.34:8000/play/a02j/index.m3u8
 #EXTINF:-1 ,MTV HD
@@ -331,6 +329,8 @@ http://138.59.177.34:8000/play/a06d/index.m3u8
 http://138.59.177.34:8000/play/a05c/index.m3u8
 #EXTINF:-1 ,Sembrador
 http://138.59.177.34:8000/play/a04g/index.m3u8
+#EXTINF:-1 ,SexTream
+http://138.59.177.34:8000/play/a07g/index.m3u8
 #EXTINF:-1 ,Películas de Sony HD
 http://138.59.177.34:8000/play/a037/index.m3u8
 #EXTINF:-1 ,Estrella TVE HD
@@ -357,8 +357,6 @@ http://138.59.177.34:8000/play/a013/index.m3u8
 http://138.59.177.34:8000/play/a057/index.m3u8
 #EXTINF:-1 ,TNT
 http://138.59.177.34:8000/play/a02l/index.m3u8
-#EXTINF:-1 ,TNT HD
-http://138.59.177.34:8000/play/a05l/index.m3u8
 #EXTINF:-1 ,Serie TNT
 http://138.59.177.34:8000/play/a02d/index.m3u8
 #EXTINF:-1 ,Serie TNT HD
@@ -387,8 +385,6 @@ http://138.59.177.34:8000/play/a01y/index.m3u8
 http://138.59.177.34:8000/play/a03n/index.m3u8
 #EXTINF:-1 ,Televida RD
 http://138.59.177.34:8000/play/a01b/index.m3u8
-#EXTINF:-1 ,Tigo Deportes HD
-http://138.59.177.34:8000/play/a05i/index.m3u8
 #EXTINF:-1 ,Tooncast
 http://138.59.177.34:8000/play/a04x/index.m3u8
 #EXTINF:-1 ,Tru TV
