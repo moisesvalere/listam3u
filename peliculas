@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, Flash
-https://pc-22.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4cf16a17bdab9f6b5ac3043ec5498c41/EP.0.2.v1.1691769784.1080.m3u8
-
-#EXTINF:-1, Star Wars episodio 1
-https://pc-37.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/28888e9174945b915256d5e6c4db0a42/EP.0.1.v1.1677385488.720.m3u8
-
-#EXTINF:-1, Star Wars episodio 2
-https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/09b158501f009cac7f9a488ed8985521/EP.0.1.v1.1678001962.720.m3u8
-
-#EXTINF:-1, Star Wars episodio 3
-https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/7dc14d908d27dc2e88caadb49ce7e814/EP.0.1.v1.1678038873.720.m3u8
-
-#EXTINF:-1, Star Wars episodio 4
-https://pc-42.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4b0504824ba7c383747f6b9bdd1bc79a/EP.0.1.v0.1677938389.720.m3u8
-
-#EXTINF:-1, Star Wars episodio 5
-https://pc-05.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/45bbfc3de89a34a11bbcae77f0ab037a/EP.0.1.v1.1678327240.720.m3u8
-
 #EXTINF:-1, Star Wars Rogue One
 https://pc-38.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d484cf8444205422e667b04dd6521187/EP.0.1.v1.1677695070.720.m3u8
 
@@ -28,5 +10,17 @@ https://archive.org/download/moving-ep-14/Moving_EP_14.mp4
 #EXTINF:-1, Moving Ep 15
 https://archive.org/download/moving-ep-15/Moving_EP_15.mp4
 
-#EXTINF:-1, ustedes pelicula netflix 2023
-https://server33.peliscdn.online/newhls/2a86bd4290d49c7fbfce685789cce8c6/EP.0.2.v0.1675934550.720.m3u8
+#EXTINF:-1,El juego del miedo 2 (2005)
+https://dl.dropboxusercontent.com/s/s16so82m7h23z4l/SalynPM-SPM2h3s.mp4?dl=0
+#EXTINF:-1,El juego del miedo 3 (2006)
+https://dl.dropboxusercontent.com/s/thx85848lzdodp3/SalynPM-SPM3e3n.mp4?dl=0
+#EXTINF:-1,El juego del miedo 4
+https://server22.peliscdn.online/newhls/927eadd5947cd920f0395ee0324dad05/EP.0.1.v1.1677664783.1080.m3u8
+#EXTINF:-1,El juego del miedo 5
+https://server14.peliscdn.online/newhls/cd0ff4a046827557290aee7f50d8fe9f/EP.0.1.v0.1679676600.1080.m3u8
+#EXTINF:-1,El juego del miedo 6
+https://server12.peliscdn.online/newhls/8dabfe40e908ef9bee62a9c38070824a/EP.0.1.v0.1677414197.1080.m3u8
+#EXTINF:-1,El juego del miedo 7
+https://server39.peliscdn.online/newhls/8cde8038c1e9eb83d8858feadd9d1531/EP.0.1.v0.1677255049.1080.m3u8
+#EXTINF:-1,El Juego del Miedo 8 (2017)
+https://dl.dropboxusercontent.com/s/vflj0k4u9su8xhw/SalynPM-SPM2m8w.mp4?dl=0
