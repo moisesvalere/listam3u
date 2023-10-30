@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 ,11 - Repetir
+#EXTINF:-1 ,11 - NC11
 http://138.59.177.34:8000/play/a03v/index.m3u8
 #EXTINF:-1 ,13-Sinarte
 http://138.59.177.34:8000/play/a01d/index.m3u8
-#EXTINF:-1 ,4 Repetir
+#EXTINF:-1 ,canal 4 
 http://138.59.177.34:8000/play/a04w/index.m3u8
 #EXTINF:-1 ,42 - Extra TV 42
 http://138.59.177.34:8000/play/a01e/index.m3u8
-#EXTINF:-1 ,6 - Repetir
+#EXTINF:-1 ,6 - canal
 http://138.59.177.34:8000/play/a03u/index.m3u8
 #EXTINF:-1 ,A&E
 http://138.59.177.34:8000/play/a052/index.m3u8
