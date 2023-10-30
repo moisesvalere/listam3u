@@ -23,7 +23,7 @@ http://138.59.177.34:8000/play/a02k/index.m3u8
 http://138.59.177.34:8000/play/a06w/index.m3u8
 #EXTINF:-1 ,AZ haga clic en HD
 http://138.59.177.34:8000/play/a039/index.m3u8
-#EXTINF:-1 ,Planeta Animal
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png",Planeta Animal
 http://138.59.177.34:8000/play/a055/index.m3u8
 #EXTINF:-1 ,Planeta Animal HD
 http://138.59.177.34:8000/play/a02z/index.m3u8
