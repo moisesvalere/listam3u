@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,11 - NC11
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1hv8y7GQXsdKTdzwd1tBsIdd3r6tUBRBr/view?usp=sharing",Canal 11
 http://138.59.177.34:8000/play/a03v/index.m3u8
 #EXTINF:-1 ,13-Sinarte
 http://138.59.177.34:8000/play/a01d/index.m3u8
