@@ -454,3 +454,6 @@ https://3.ultimate2019.com/stream/hls/675
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/357
 
+#EXTINF:-1 tvg-logo="" group-title="Nacionales",Venevision
+https://venevision.akamaized.net/hls/live/2098814/VENEVISION/0/streamPlaylist.m3u8
+
