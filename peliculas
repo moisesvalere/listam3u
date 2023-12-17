@@ -11,10 +11,11 @@ https://server02.peliscdn.online/newhls/fd38e44ddb384a8572010ee9c0417640/EP.0.1.
 https://server18.peliscdn.online/newhls/833b0cbdd5c7e115e1fd0fd394d3a6ec/EP.0.1.v0.1677204488.720.m3u8
 #EXTINF:-1,opm 1x1
 https://server13.peliscdn.online/newhls/639c5243d88b89a88480e40bc64e4a0f/EP.1.1.v0.1675953444.720.m3u8
+
 #EXTINF:-1,opm 1x2
-https://server14.peliscdn.online/newhls/639c5243d88b89a88480e40bc64e4a0f/EP.2.1.v0.1675939437.720.m3u8
-#EXTINF:-1,opm 1x3
 https://server15.peliscdn.online/newhls/639c5243d88b89a88480e40bc64e4a0f/EP.3.1.v0.1675945120.720.m3u8
+#EXTINF:-1,opm 1x3
+
 #EXTINF:-1,opm 1x4
 https://server16.peliscdn.online/newhls/639c5243d88b89a88480e40bc64e4a0f/EP.4.1.v0.1675950388.720.m3u8
 #EXTINF:-1,opm 1x5
