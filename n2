@@ -1,321 +1,214 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="NOTICIAS",Euronews Español
-http://clubtv.link/JU19/key4513/distro.php?c=euronews-spa
+http://clubtv.link/jul2307/key4513/distro.php?c=euronews-spa
 #EXTINF:-1 tvg-logo="https://imgur.com/ySWZ76R.png" group-title="COMEDIA",Flou Cine
-http://clubtv.link/JU19/key4513/distro.php?c=flou-cine
+http://clubtv.link/jul2307/key4513/distro.php?c=flou-cine
 #EXTINF:-1 tvg-logo="https://imgur.com/HClN7n1.png" group-title="ENTRETENIMIENTO",Flou Caribeño
-http://clubtv.link/JU19/key4513/distro.php?c=flou-caribeno
+http://clubtv.link/jul2307/key4513/distro.php?c=flou-caribeno
 #EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="ENTRETENIMIENTO",Wapp
-http://clubtv.link/JU19/key4513/distro.php?c=wapptv
-
+http://clubtv.link/jul2307/key4513/distro.php?c=wapptv
+#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
+http://clubtv.link/jul2307/key4513/distro.php?c=el-conflicto-tv
 #EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
-http://clubtv.link/JU19/key4513/distro.php?c=glewedtv-spanish
-#EXTINF:-1 group-title="TV PREMIUM", A&E HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00f&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/distro.php?c=glewedtv-spanish
 #EXTINF:-1 group-title="TV PREMIUM", AE Mundo	
-http://clubtv.link/JU19/key4513/lista7.php?c=a078&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ALBA TV	
-http://clubtv.link/JU19/key4513/lista7.php?c=a08s&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", AMC HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01y&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ANTV	
-http://clubtv.link/JU19/key4513/lista7.php?c=a08p&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ATRES SERIES HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a015&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a01m&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", AMC	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a06a&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", AXN	
-http://clubtv.link/JU19/key4513/lista7.php?c=a03u&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", AXN HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00i&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Animal Planet HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a029&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Avila TV	
-http://clubtv.link/JU19/key4513/lista7.php?c=a092&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a030&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", America TV PY	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a067&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Animal Planet	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a01d&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", BabyFirst	
-http://clubtv.link/JU19/key4513/lista7.php?c=a05o&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Bein sports x	
-http://clubtv.link/JU19/key4513/lista7.php?c=a0cm&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Bjgtjme	
-http://clubtv.link/JU19/key4513/lista7.php?c=a0c1&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", CANAL I	
-http://clubtv.link/JU19/key4513/lista7.php?c=a09h&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", CLAVE	
-http://clubtv.link/JU19/key4513/lista7.php?c=a08i&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a00n&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", CANAL CHD	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a056&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", CNN Espanol	
-http://clubtv.link/JU19/key4513/lista7.php?c=a06d&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", COLOMBEIA	
-http://clubtv.link/JU19/key4513/lista7.php?c=a08q&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Caillou	
-http://clubtv.link/JU19/key4513/lista7.php?c=a0dz&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Canal 24 Horas HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02w&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a00r&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", Canal Caracol	
-http://clubtv.link/JU19/key4513/lista7.php?c=a039&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Canal Claro	
-http://clubtv.link/JU19/key4513/lista7.php?c=a07t&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a02g&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Canal Estrellas	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a01q&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Canal Institucional	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a02k&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", Canal RCN	
-http://clubtv.link/JU19/key4513/lista7.php?c=a03a&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a02h&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", Canal Uno	
-http://clubtv.link/JU19/key4513/lista7.php?c=a037&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Caracol HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02y&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Cartoon Network HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a022&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Cinecanal HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01x&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a02e&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Canal del Congreso	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a02l&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Capital	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a02w&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Cartoon Network	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a00g&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Cinecanal	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a008&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", Cinemax	
-http://clubtv.link/JU19/key4513/lista7.php?c=a03s&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Cinemax HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a016&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a02y&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", City TV	
-http://clubtv.link/JU19/key4513/lista7.php?c=a03o&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Claro Cinema	
-http://clubtv.link/JU19/key4513/lista7.php?c=a043&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Claro Sports	
-http://clubtv.link/JU19/key4513/lista7.php?c=a05j&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Classic Rock	
-http://clubtv.link/JU19/key4513/lista7.php?c=a07d&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Clover HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00o&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Comedy Central HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a017&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ConCiencia TV	
-http://clubtv.link/JU19/key4513/lista7.php?c=a08t&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery H&H HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01e&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a031&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery Kids HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01d&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery Theater HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01f&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a02v&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Channel	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a01c&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Discovery ID	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a01v&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Kids	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a00q&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", Discovery Turbo	
-http://clubtv.link/JU19/key4513/lista7.php?c=a045&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Discovery World HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01w&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Disney HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00y&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a03b&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Disney Channel	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a01b&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", Disney Jr	
-http://clubtv.link/JU19/key4513/lista7.php?c=a06p&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", E! HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02h&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN 2 HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a013&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN 3 HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a011&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN 4 HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01j&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a013&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", E Entertainment	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a01f&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 2	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a016&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 2 Latin	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a01h&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 3	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a03d&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 4	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a025&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", ESPN CO	
-http://clubtv.link/JU19/key4513/lista7.php?c=a03i&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN EXTRA HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01z&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02g&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ESPN HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01p&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Easy Listening	
-http://clubtv.link/JU19/key4513/lista7.php?c=a088&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", El Gourmet HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01a&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", FOX Sports 2 HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01k&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", FX HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01o&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Food Network HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02k&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Fox Sports 1 HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a032&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Fox Sports 3 HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a012&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", GLOBOVISION	
-http://clubtv.link/JU19/key4513/lista7.php?c=a093&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Golden HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02d&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a02p&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Enlace	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a00l&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Esne TV	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a03c&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", FX	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a032&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Fox Sports 2	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a01r&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Fox Sports 3	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a01s&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", HBO	
-http://clubtv.link/JU19/key4513/lista7.php?c=a03r&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HBO 2 HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a027&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HBO Family HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a034&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HBO HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a020&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HBO POP HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00m&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a02x&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", HBO 2	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a00z&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", HBO Family	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a012&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", HBO Plus	
-http://clubtv.link/JU19/key4513/lista7.php?c=a06m&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HBO XTREME HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a035&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HCH	
-http://clubtv.link/JU19/key4513/lista7.php?c=a08j&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", HOLA TV HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00z&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", History 2 HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a033&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", History Channel HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00e&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ID HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a018&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Infast	
-http://clubtv.link/JU19/key4513/lista7.php?c=a0au&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Kanal D Drama HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a021&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Las Estrellas HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02z&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Latin Pop	
-http://clubtv.link/JU19/key4513/lista7.php?c=a087&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Latina HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02m&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Lifetime	
-http://clubtv.link/JU19/key4513/lista7.php?c=a05p&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Lolly Kids HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02s&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Love Nature HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02t&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", MEGA HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a089&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", MTV 00s	
-http://clubtv.link/JU19/key4513/lista7.php?c=a014&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", MTV HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02x&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", MTV LIVE HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01i&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", MUSIC TV	
-http://clubtv.link/JU19/key4513/lista7.php?c=a08h&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Meridiano	
-http://clubtv.link/JU19/key4513/lista7.php?c=a096&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", NTV	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01s&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Nat Geo HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01v&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", New Age	
-http://clubtv.link/JU19/key4513/lista7.php?c=a07b&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Nick HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00r&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Nick Jr	
-http://clubtv.link/JU19/key4513/lista7.php?c=a044&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Nickelodeon	
-http://clubtv.link/JU19/key4513/lista7.php?c=a056&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Oromar TV	
-http://clubtv.link/JU19/key4513/lista7.php?c=a09f&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", PLIM PLIM	
-http://clubtv.link/JU19/key4513/lista7.php?c=a091&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Paramount HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a023&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Pasiones HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00x&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", RCN Novelas	
-http://clubtv.link/JU19/key4513/lista7.php?c=a07q&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", RCN mas	
-http://clubtv.link/JU19/key4513/lista7.php?c=a0ab&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", RCN xtra	
-http://clubtv.link/JU19/key4513/lista7.php?c=a0bk&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Reggae	
-http://clubtv.link/JU19/key4513/lista7.php?c=a07g&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Reggaeton	
-http://clubtv.link/JU19/key4513/lista7.php?c=a07h&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Rock Latino	
-http://clubtv.link/JU19/key4513/lista7.php?c=a07i&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", SONY Comp	
-http://clubtv.link/JU19/key4513/lista7.php?c=a0ca&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL	
-http://clubtv.link/JU19/key4513/lista7.php?c=a05f&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02v&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01g&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00q&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", STAR TVE HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a025&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Salsa Caribe	
-http://clubtv.link/JU19/key4513/lista7.php?c=a09y&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Salsa y Merengue	
-http://clubtv.link/JU19/key4513/lista7.php?c=a085&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Show Ven TV	
-http://clubtv.link/JU19/key4513/lista7.php?c=a090&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Sin Limites	
-http://clubtv.link/JU19/key4513/lista7.php?c=a084&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Solo Para Peques	
-http://clubtv.link/JU19/key4513/lista7.php?c=a086&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Sony HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00g&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Sony Novelas	
-http://clubtv.link/JU19/key4513/lista7.php?c=a0aa&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Space	
-http://clubtv.link/JU19/key4513/lista7.php?c=a03v&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Space HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00j&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Stingray Concerts HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02j&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Studio Universal	
-http://clubtv.link/JU19/key4513/lista7.php?c=a06r&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Studio Universal HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a024&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Sun Channel HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01c&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", SyFy	
-http://clubtv.link/JU19/key4513/lista7.php?c=a05q&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Symphonic	
-http://clubtv.link/JU19/key4513/lista7.php?c=a07a&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TCM	
-http://clubtv.link/JU19/key4513/lista7.php?c=a05g&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TELESUR	
-http://clubtv.link/JU19/key4513/lista7.php?c=a08o&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TLC	
-http://clubtv.link/JU19/key4513/lista7.php?c=a07k&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TLT	
-http://clubtv.link/JU19/key4513/lista7.php?c=a098&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TLT HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a09e&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TMA	
-http://clubtv.link/JU19/key4513/lista7.php?c=a0bz&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TNT HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a010&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TNT Novelas HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a02r&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TNT Series HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01n&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TRUTV HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a019&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TVE	
-http://clubtv.link/JU19/key4513/lista7.php?c=a05n&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TVES	
-http://clubtv.link/JU19/key4513/lista7.php?c=a08n&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TVFANB	
-http://clubtv.link/JU19/key4513/lista7.php?c=a08y&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TVS	
-http://clubtv.link/JU19/key4513/lista7.php?c=a0ce&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Telemundo	
-http://clubtv.link/JU19/key4513/lista7.php?c=a07p&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Televen	
-http://clubtv.link/JU19/key4513/lista7.php?c=a097&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CHANNEL HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a01h&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Universal	
-http://clubtv.link/JU19/key4513/lista7.php?c=a05a&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Universal Cinema SD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a06u&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Universal Comedy SD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a06v&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Universal Premiere SD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a06t&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", VPACO TV	
-http://clubtv.link/JU19/key4513/lista7.php?c=a09d&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", VTV	
-http://clubtv.link/JU19/key4513/lista7.php?c=a08l&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Venevision	
-http://clubtv.link/JU19/key4513/lista7.php?c=a095&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Venevision HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a0ak&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Vive TV 	
-http://clubtv.link/JU19/key4513/lista7.php?c=a08m&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a010&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", HBO#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Exa TV
+http://clubtv.link/jul2307/key4513/lista1.php?c=a03d&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",FUTV CR
+http://clubtv.link/jul2307/key4513/lista1.php?c=a03k&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",FUTV CR
+http://clubtv.link/jul2307/key4513/lista1.php?c=a05b&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",FX
+http://clubtv.link/jul2307/key4513/lista1.php?c=a027&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Fox Sport 3
+http://clubtv.link/jul2307/key4513/lista1.php?c=a01b&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",France24
+http://clubtv.link/jul2307/key4513/lista1.php?c=a01j&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Golden
+http://clubtv.link/jul2307/key4513/lista1.php?c=a02l&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Guatevision - GUA
+http://clubtv.link/jul2307/key4513/lista1.php?c=a00s&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",H2
+http://clubtv.link/jul2307/key4513/lista1.php?c=a02a&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",HOLA! TV
+http://clubtv.link/jul2307/key4513/lista1.php?c=a052&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",HTV
+http://clubtv.link/jul2307/key4513/lista1.php?c=a02k&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",History Channel
+http://clubtv.link/jul2307/key4513/lista1.php?c=a039&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",History
+http://clubtv.link/jul2307/key4513/lista1.php?c=a01m&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",ID
+http://clubtv.link/jul2307/key4513/lista1.php?c=a03y&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",LIFE TIME
+http://clubtv.link/jul2307/key4513/lista1.php?c=a01a&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",La voz de Maria
+http://clubtv.link/jul2307/key4513/lista1.php?c=a040&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Latin America Sport
+http://clubtv.link/jul2307/key4513/lista1.php?c=a02h&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",MTV
+http://clubtv.link/jul2307/key4513/lista1.php?c=a042&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",MTV 00s
+http://clubtv.link/jul2307/key4513/lista1.php?c=a02j&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",MTV 00s
+http://clubtv.link/jul2307/key4513/lista1.php?c=a055&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",MTV Hits
+http://clubtv.link/jul2307/key4513/lista1.php?c=a01c&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Multicinema
+http://clubtv.link/jul2307/key4513/lista1.php?c=a02n&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Multipremier
+http://clubtv.link/jul2307/key4513/lista1.php?c=a046&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",National Geographic
+http://clubtv.link/jul2307/key4513/lista1.php?c=a019&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Nick Jr
+http://clubtv.link/jul2307/key4513/lista1.php?c=a00z&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Nick SIM
+http://clubtv.link/jul2307/key4513/lista1.php?c=a04y&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Nickelodeon
+http://clubtv.link/jul2307/key4513/lista1.php?c=a03t&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",PXTV
+http://clubtv.link/jul2307/key4513/lista1.php?c=a02g&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Paramount
+http://clubtv.link/jul2307/key4513/lista1.php?c=a05h&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Pasiones
+http://clubtv.link/jul2307/key4513/lista1.php?c=a05l&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",RCN - GUA
+http://clubtv.link/jul2307/key4513/lista1.php?c=a03n&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",RCN Novelas
+http://clubtv.link/jul2307/key4513/lista1.php?c=a028&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",RHEMA TV
+http://clubtv.link/jul2307/key4513/lista1.php?c=a04d&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",SEMILLITAS
+http://clubtv.link/jul2307/key4513/lista1.php?c=a012&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",SONY
+http://clubtv.link/jul2307/key4513/lista1.php?c=a032&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",SONY
+http://clubtv.link/jul2307/key4513/lista1.php?c=a03h&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",SPACE
+http://clubtv.link/jul2307/key4513/lista1.php?c=a016&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",SPACE
+http://clubtv.link/jul2307/key4513/lista1.php?c=a04g&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",STAR CHANNEL
+http://clubtv.link/jul2307/key4513/lista1.php?c=a03v&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",STAR CHANNEL
+http://clubtv.link/jul2307/key4513/lista1.php?c=a03f&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Sembrador
+http://clubtv.link/jul2307/key4513/lista1.php?c=a02o&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Studio Universal
+http://clubtv.link/jul2307/key4513/lista1.php?c=a049&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Sun Channel
+http://clubtv.link/jul2307/key4513/lista1.php?c=a02c&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",SyFy
+http://clubtv.link/jul2307/key4513/lista1.php?c=a036&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",TBN Enlace
+http://clubtv.link/jul2307/key4513/lista1.php?c=a01k&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",TCM
+http://clubtv.link/jul2307/key4513/lista1.php?c=a02m&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",TLC
+http://clubtv.link/jul2307/key4513/lista1.php?c=a03a&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",TNT
+http://clubtv.link/jul2307/key4513/lista1.php?c=a01f&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",TNT Series
+http://clubtv.link/jul2307/key4513/lista1.php?c=a017&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",TV Oriente ESA
+http://clubtv.link/jul2307/key4513/lista1.php?c=a03l&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",TVE
+http://clubtv.link/jul2307/key4513/lista1.php?c=a04c&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",TVM25 -  ESA
+http://clubtv.link/jul2307/key4513/lista1.php?c=a03r&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Tele Antillas - RD
+http://clubtv.link/jul2307/key4513/lista1.php?c=a00t&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",TeleMicro - RD
+http://clubtv.link/jul2307/key4513/lista1.php?c=a02w&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="TV PREMIUM",Telecentro - RD
+http://clubtv.link/jul2307/key4513/lista1.php?c=a01y&token=TecnotvGenerador&f=.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM", WIN SPORT HD	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a05o&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", Warner	
-http://clubtv.link/JU19/key4513/lista7.php?c=a070&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Warner Channel HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00h&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Win Sports HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a00n&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Win Sports+ HD	
-http://clubtv.link/JU19/key4513/lista7.php?c=a028&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a01e&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Win	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a034&token=TecnotvGenerador
 #EXTINF:-1 group-title="TV PREMIUM", Zona Latina	
-http://clubtv.link/JU19/key4513/lista7.php?c=a05d&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/jul2307/key4513/lista5.php?c=a00c&token=TecnotvGenerador
+#EXTINF:-1 group-title="TV PREMIUM", Zoom	
+http://clubtv.link/jul2307/key4513/lista5.php?c=a02s&token=TecnotvGenerador
