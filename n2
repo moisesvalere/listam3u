@@ -21,8 +21,6 @@ http://152.230.126.5:3344/play/a0i1
 http://152.230.126.5:3344/play/a07a
 #EXTINF:-1,Canal de Las estrellas
 http://152.230.126.5:3344/play/a0i9
-#EXTINF:-1,Caracol
-http://152.230.126.5:3344/play/a0rn
 #EXTINF:-1,Caracol (clone)
 http://152.230.126.5:3344/play/a0ue
 #EXTINF:-1,Cartoon Network
@@ -99,8 +97,6 @@ http://152.230.126.5:3344/play/a0k8
 http://152.230.126.5:3344/play/a0i7
 #EXTINF:-1,TNT Sports HD
 http://152.230.126.5:3344/play/a0q4
-#EXTINF:-1,TRUTV HD
-http://152.230.126.5:3344/play/a073
 #EXTINF:-1,TV PERU
 http://152.230.126.5:3344/play/a0lw
 #EXTINF:-1,TV+
@@ -127,6 +123,8 @@ http://152.230.126.5:3344/play/a0ky
 http://152.230.126.5:3344/play/a0qj
 #EXTINF:-1,USA T
 http://152.230.126.5:3344/play/a0u5
+#EXTINF:-1,Venevision Plus
+http://152.230.126.5:3344/play/a0t9
 #EXTINF:-1,Venus
 http://152.230.126.5:3344/play/a0tt
 #EXTINF:-1,ViaX
